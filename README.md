@@ -1,4 +1,5 @@
-## Hi there 👋
+## Furyuna Discord Sunucumuz İçin Web Sitesi.
+discord.gg/BvD9RWFRXT
 
 <!--
 **Furyuna/furyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
